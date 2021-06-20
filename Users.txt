@@ -1,0 +1,1 @@
+{"firstName":"fahim","lastName":"khan","gender":"male","userName":"fahim","password":"1234","present_address":"Dhaka","parmanent_address":"Dhaka","phone":"+8801623467381","contact_email":"emonfahim789@gmail.com","website_link":"www.facebook.com","birthday":"2021-06-22","religion":"Muslim"}
